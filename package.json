@@ -1,0 +1,27 @@
+{
+  "name": "week18homework",
+  "version": "1.0.0",
+  "description": "Week 18 Homework Assignment - All the News That's Fit to Scrape",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maziza/Week-18.git"
+  },
+  "author": "Aziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maziza/Week-18/issues"
+  },
+  "homepage": "https://github.com/maziza/Week-18#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.6.6",
+    "request": "^2.78.0"
+  }
+}
